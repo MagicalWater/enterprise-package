@@ -10,8 +10,8 @@
 8. 將 iTunesArtwork 以及 Payload 壓成zip
 9. 將 zip 副檔名改為 .ipa
 
-[圖解1]()
-[圖解2]()
+[圖解1](https://github.com/MagicalWater/enterprise-package/blob/master/%E6%9C%AA%E7%B0%BD%E5%90%8D%E5%8C%85%E5%9C%96%E8%A7%A31.png)
+[圖解2](https://github.com/MagicalWater/enterprise-package/blob/master/%E6%9C%AA%E7%B0%BD%E5%90%8D%E5%8C%85%E5%9C%96%E8%A7%A32.png)
 
 未簽名包至此完成
 
@@ -22,8 +22,8 @@
 2. app.plist 
 
 假設 ipa 跟 plist 的 url 是
-ipa   - https://www.example.com/app.ipa
-plist - https://www.example.com/app.plist
+1. app.ipa   - https://www.example.com/app.ipa
+2. app.plist - https://www.example.com/app.plist
 
 ios 安裝 ipa 的 url 即是
 ```
